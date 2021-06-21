@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\ConsoleApp1",
-    "\\ConsoleApp1\\bin",
-    "\\ConsoleApp1\\obj\\Debug\\netcoreapp3.1",
-    "\\ConsoleApp1\\obj\\Release\\netcoreapp3.1",
-    "\\Torneo.Entidades"
+    "\\Torneo.Entidades",
+    "\\Torneo.Entidades\\bin\\Debug"
   ],
   "SelectedNode": "\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
