@@ -9,7 +9,6 @@ namespace Torneo.Entidades
         public string Name { get; set; }
         public string Mitologia { get; set; }
         public int Nivel { get; set; }
-        public string Raza { get; set; }
         public string Reino { get; set;}
     }
 }
