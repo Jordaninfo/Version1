@@ -1,0 +1,13 @@
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.exe
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.deps.json
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.runtimeconfig.json
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.runtimeconfig.dev.json
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.dll
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\bin\Debug\netcoreapp3.1\Arboles.pdb
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.csproj.AssemblyReference.cache
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.AssemblyInfoInputs.cache
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.AssemblyInfo.cs
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.csproj.CoreCompileInputs.cache
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.dll
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.pdb
+E:\3er Semestre\P.Visual\Arboles\Arboles\Arboles\obj\Debug\netcoreapp3.1\Arboles.genruntimeconfig.cache
